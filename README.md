@@ -6,6 +6,11 @@ Website ini memungkinkan pengguna untuk menjelajahi koleksi buku, membaca pratin
 
 ---
 
+## 🖥️ Tampilan Awal
+![Tampilan Awal Project](./client/public/preview.png)
+
+---
+
 ## ✨ Fitur
 
 - 🔍 Pencarian dan filter buku berdasarkan kata kunci atau kategori  
